@@ -134,4 +134,7 @@ a:hover span:nth-child(2)
     section{
         width:330px ;
     }
+    img{
+        width: 120px;
+    }
 }
